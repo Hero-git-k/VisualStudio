@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\Afanasev Zadanie7\Afanasev Zadanie7\bin\Debug\Afanasev Zadanie7.exe.config
+C:\Users\student\source\repos\Afanasev Zadanie7\Afanasev Zadanie7\bin\Debug\Afanasev Zadanie7.exe
+C:\Users\student\source\repos\Afanasev Zadanie7\Afanasev Zadanie7\bin\Debug\Afanasev Zadanie7.pdb
+C:\Users\student\source\repos\Afanasev Zadanie7\Afanasev Zadanie7\obj\Debug\Afanasev Zadanie7.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Afanasev Zadanie7\Afanasev Zadanie7\obj\Debug\Afanasev_Zadanie7.Form1.resources
+C:\Users\student\source\repos\Afanasev Zadanie7\Afanasev Zadanie7\obj\Debug\Afanasev_Zadanie7.Properties.Resources.resources
+C:\Users\student\source\repos\Afanasev Zadanie7\Afanasev Zadanie7\obj\Debug\Afanasev Zadanie7.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Afanasev Zadanie7\Afanasev Zadanie7\obj\Debug\Afanasev Zadanie7.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Afanasev Zadanie7\Afanasev Zadanie7\obj\Debug\Afanasev Zadanie7.exe
+C:\Users\student\source\repos\Afanasev Zadanie7\Afanasev Zadanie7\obj\Debug\Afanasev Zadanie7.pdb
